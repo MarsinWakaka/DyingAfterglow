@@ -1,0 +1,4 @@
+repository "dying_light@wechat_os_qy052swtzwosik1vfo35y5ays@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
